@@ -1,0 +1,2 @@
+# otomaton
+DeterministicFiniteAutomata
